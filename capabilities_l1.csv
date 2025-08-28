@@ -1,0 +1,22 @@
+capability_id,name,domain,description,maturity_current,maturity_target,value_streams
+CAP-001,Customer Management,Front Office,"Own and manage customer information, profiles, preferences.",2,4,Retail Sales;Customer Service
+CAP-002,Product Management,Core Operations,"Define and manage products, categories, catalogs, attributes.",2,4,Merchandising
+CAP-003,Pricing & Promotions,Core Operations,"Set and manage prices, discounts, and campaigns.",2,4,Merchandising;Retail Sales
+CAP-004,Order Management,Core Operations,"Capture, manage, and fulfill orders including returns/exchanges.",2,4,Retail Sales;E-commerce
+CAP-005,Payments,Core Operations,Execute and reconcile payments across channels.,1,4,Retail Sales;Finance
+CAP-006,Inventory Management,Core Operations,"Track on-hand, in-transit, and reserved inventory.",2,4,Merchandising;Supply Chain
+CAP-007,Store Operations,Core Operations,"Run in-store operations incl. tills, openings/closings, cash mgmt.",2,4,Retail Sales
+CAP-008,Loyalty & Rewards,Front Office,"Manage loyalty programs, tiers, and redemptions.",1,3,Marketing;Retail Sales
+CAP-009,Gift Cards & Vouchers,Front Office,Issue and redeem prepaid value instruments.,1,3,Retail Sales;Finance
+CAP-010,Tax & Compliance,Risk & Compliance,Calculate and report taxes; meet regulatory obligations.,2,4,Finance;Legal
+CAP-011,Reporting & Analytics,Business Support,Provide operational and management insights.,1,3,Finance;Strategy
+CAP-012,Identity & Access Mgmt,IT Foundation,"Provision, authenticate, and authorize users/roles.",2,4,IT
+CAP-013,Platform & Integration,IT Foundation,"APIs, eventing, and ETL to connect systems.",2,4,IT
+CAP-014,Observability & SRE,IT Foundation,"Logging, metrics, tracing, alerting, reliability.",1,3,IT
+CAP-015,Security & Privacy,Risk & Compliance,"Security controls, PCI DSS, data protection.",2,5,IT;Risk
+CAP-016,Master Data Mgmt,Business Support,"Govern product, customer, and store master data.",1,3,IT;Merchandising
+CAP-017,Supplier & Procurement,Business Support,Source and procure goods and services.,2,3,Supply Chain
+CAP-018,Financial Management,Business Support,"Accounting, reconciliation, and reporting.",2,4,Finance
+CAP-019,Workforce Management,Business Support,"Scheduling, training, and performance.",2,3,HR;Store Ops
+CAP-020,Channel & Store Mgmt,Front Office,"Manage store hierarchy, channels, and configurations.",2,4,Retail Sales
+CAP-021,Digital Experience,Front Office,Customer-facing UX across channels.,2,4,Retail Sales;E-commerce

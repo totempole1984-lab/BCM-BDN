@@ -1,0 +1,7 @@
+change_id,change_name,type,capability_id,owner,description,benefit_ids
+CHG-001,Adopt predictive churn intervention in retention process,process,CAP-001,Head of CRM,Use predictive churn scores to trigger targeted retention offers at POS and CRM.,BEN-001;BEN-002
+CHG-002,Embed model insights into POS upsell flows,behavior,CAP-021,Retail Experience Lead,Display contextual upsell recommendations during checkout.,BEN-002;BEN-003
+CHG-003,Standardize real-time price/discount governance,policy,CAP-003,Merchandising Lead,"Centralize pricing rules and guardrails, propagated to POS.",BEN-002;BEN-003
+CHG-004,Institutionalize fast-lane checkout operating procedure,process,CAP-007,Store Ops Director,Introduce express checkout lane with simplified steps & training.,BEN-003
+CHG-005,Implement unified store closing reconciliation,process,CAP-018,Finance Ops Manager,Harmonize EOD cash & card reconciliation with automated exports.,BEN-004
+CHG-006,Implement PCI controls in SDLC and runtime,policy,CAP-015,CISO,"Shift-left security, quarterly scans, key mgmt & logging at POS.",BEN-005

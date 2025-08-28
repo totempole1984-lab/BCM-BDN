@@ -1,0 +1,7 @@
+# JQL Cheat-Sheet for Mapping POS Epics
+project = POS AND issuetype = Epic
+project = POS AND issuetype = Epic AND component = "pos-core"
+project = POS AND issuetype = Epic AND labels in (pricing, promotions)
+project = POS AND issuetype = Epic AND fixVersion = "1.0.0"
+project = POS AND issuetype = Epic AND statusCategory != Done
+project = POS AND issuetype = Epic AND updated >= -7d

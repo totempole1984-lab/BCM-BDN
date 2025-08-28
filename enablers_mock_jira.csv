@@ -1,0 +1,6 @@
+enabler_id,source,externalKey,title,status,story_points_total,story_points_done,owner,url,labels,component,fixVersion
+ENB-001,JIRA,POS-101,"POS Core Service (cart, checkout, receipt)",In Progress,80,40,POS Platform Team,https://jira.example.com/browse/POS-101,pos-core;backend,pos-core,1.0.0
+ENB-002,JIRA,POS-102,Payments Gateway Integration,In Progress,55,20,Payments Team,https://jira.example.com/browse/POS-102,payments;pci,payments,1.0.0
+ENB-003,JIRA,POS-103,Offline Mode & Sync,To Do,34,0,POS Platform Team,https://jira.example.com/browse/POS-103,offline;resilience,pos-core,1.1.0
+ENB-004,JIRA,POS-104,Pricing & Promotions Engine Adapter,In Progress,40,18,Merch Tech,https://jira.example.com/browse/POS-104,pricing;promotions,pricing,1.0.0
+ENB-005,JIRA,POS-105,Product Catalog Service & Search,Done,48,48,Merch Tech,https://jira.example.com/browse/POS-105,catalog;search,catalog,1.0.0

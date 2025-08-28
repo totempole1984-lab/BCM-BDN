@@ -1,0 +1,6 @@
+driver_id,driver_name,benefit_id,benefit_name,metric_unit,baseline,target,due_date,driver_weight
+DRV-001,Increase Customer Lifetime Value,BEN-001,Reduce churn by 5%,% churn,18%,13%,2025-12-31,0.5
+DRV-001,Increase Customer Lifetime Value,BEN-002,+8% ARPU,% change,0%,8%,2025-12-31,0.5
+DRV-002,Improve Store Throughput,BEN-003,Cut average checkout time from 90s to 45s,seconds,90,45,2025-10-31,0.6
+DRV-002,Improve Store Throughput,BEN-004,Reduce payment failures from 1.5% to 0.3%,% failures,1.5%,0.3%,2025-10-31,0.4
+DRV-003,Ensure Compliance & Trust,BEN-005,Achieve PCI DSS Level 1 certification,boolean,false,true,2025-09-30,1.0

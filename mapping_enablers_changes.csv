@@ -1,0 +1,6 @@
+enabler_id,change_id,weight
+ENB-001,CHG-004,1.0
+ENB-002,CHG-006,0.7
+ENB-003,CHG-004,0.5
+ENB-004,CHG-003,1.0
+ENB-005,CHG-003,0.6
